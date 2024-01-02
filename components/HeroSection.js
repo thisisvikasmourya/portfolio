@@ -29,8 +29,9 @@ const HeroSection = () => {
           </h1>
           <p className="w-full  lg:w-1/2">
             {" "}
-            Full Stack Developer with over 20 years of extensive experience in
-            crafting innovative and scalable web solutions. My expertise
+            MERN developer adept at meeting user needs with high-quality, clean
+            code. Strong in design, development, and deployment. Collaborates
+            for flawless applications.
           </p>
         </div>
         <div>
