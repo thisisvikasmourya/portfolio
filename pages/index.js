@@ -6,6 +6,7 @@ import MySkills from "@/components/MySkills";
 import MyExperience from "@/components/MyExperience";
 import MyProject from "@/components/MyProject";
 import MyTestimonials from "@/components/MyTestimonials";
+import MyContact from "@/components/MyContact";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -18,6 +19,7 @@ export default function Home() {
       <AboutMe />
       <MyProject />
       <MyTestimonials />
+      <MyContact />
     </main>
   );
 }

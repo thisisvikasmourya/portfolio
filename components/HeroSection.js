@@ -42,7 +42,7 @@ const HeroSection = () => {
           />
         </div>
       </div>
-      <div className="flex flex-row">
+      <div className="flex flex-row place-items-center ">
         <div className="flex list-none gap-5 text-[20px]">
           <li className="border-black text-white bg-black  border-2 p-[16px] rounded-lg">
             <FaXTwitter />
@@ -54,7 +54,8 @@ const HeroSection = () => {
             <FaLinkedinIn />
           </li>
         </div>
-        <div>{/* <hr  width={ '50%'} /> */}</div>
+
+        <hr className=" mx-5 px-4 border-2 border-black w-full" />
       </div>
     </div>
   );
